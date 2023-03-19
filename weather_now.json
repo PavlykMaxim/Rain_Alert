@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 37.52,
+        "lat": 55.53
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "облачно с прояснениями",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": -4.82,
+        "feels_like": -10.21,
+        "temp_min": -5.39,
+        "temp_max": -4.34,
+        "pressure": 1032,
+        "humidity": 74
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4,
+        "deg": 150
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1674337929,
+    "sys": {
+        "type": 2,
+        "id": 2000314,
+        "country": "RU",
+        "sunrise": 1674366012,
+        "sunset": 1674394930
+    },
+    "timezone": 10800,
+    "id": 495260,
+    "name": "Щербинка",
+    "cod": 200
+}
